@@ -21,7 +21,7 @@ import { TypewriterEffect } from 'typewriter-effect-vue'
     :active="true"
 >
     <div>I<span style='color: #00FFFF;'>'</span>m</div>
-    <div>Typewritter effect for <span style='color: #00FFFF;'>Vue</span></div>
+    <div>Typewritter Effect for <span style='color: #00FFFF;'>Vue</span></div>
 </TypewriterEffect>
 ```
 
