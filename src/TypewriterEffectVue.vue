@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { onMounted, useTemplateRef, watch, type Ref } from 'vue';
-import { tTypewriter } from '../../t-typewriter';
+import { tTypewriter } from 't-typewriter';
 
 // Define the props with TypeScript interfaces
 interface Props {

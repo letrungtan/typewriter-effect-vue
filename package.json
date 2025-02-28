@@ -1,7 +1,7 @@
 {
   "name": "typewriter-effect-vue",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "dist/typewriter-effect-vue.es.js",
   "module": "dist/typewriter-effect-vue.es.js",
@@ -9,7 +9,7 @@
   "keywords": [
     "vue",
     "typewriter-effect",
-    "typewriter-effect-vue"
+    "vue-typewriter-effect"
   ],
   "author": "Le Trung Tan",
   "license": "MIT",
@@ -23,7 +23,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "t-typewriter": "github:letrungtan/t-typewriter",
+    "t-typewriter": "^1.0.2",
     "vite-plugin-css-injected-by-js": "^3.5.2",
     "vue": "^3.5.13"
   },
