@@ -1,15 +1,16 @@
 {
   "name": "typewriter-effect-vue",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "dist/typewriter-effect-vue.es.js",
   "module": "dist/typewriter-effect-vue.es.js",
   "style": "dist/index.css",
   "keywords": [
     "vue",
-    "typewriter-effect",
-    "vue-typewriter-effect"
+    "typewriter effect",
+    "vue typewriter effect",
+    "typing effect"
   ],
   "author": "Le Trung Tan",
   "license": "MIT",
