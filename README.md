@@ -2,7 +2,7 @@
 
 A typewriter effect library for Vue 3, using Vue rendered content.
 
-<img src="https://raw.githubusercontent.com/letrungtan/typewriter-effect-vue/refs/heads/main/src/assets/typewriter-effect-vue.webp" width="800" />
+<img src="https://raw.githubusercontent.com/letrungtan/typewriter-effect-vue/refs/heads/main/src/assets/typewriter-effect-vue.webp" width="650" />
 
 ## Installation
 ### NPM
